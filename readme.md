@@ -16,8 +16,8 @@ This project fine-tunes the GPT-2 model from Hugging Face using the WikiText-2 t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/gpt2-fine-tuning-project.git
-   cd gpt2-fine-tuning-project
+   git clone https://github.com/PhotonTec/GM-hw1.git
+   cd GM-hw1
 
 2. Install the required packages:
 
@@ -70,4 +70,4 @@ This project is licensed under the [MIT License](https://chat.openai.com/c/LICEN
 ## Acknowledgments
 
 - This is homework1 of generative model class
-- Author:2100013158 Xu Tianyi
+- Author:2100013158 Xu Tianyi# GM-hw1
